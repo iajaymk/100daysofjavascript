@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    justify-content: center;
+    margin-top: 35vh;
+}
+
+h1{
+    color: #272727;
+    font-size: 40px;
+}
+
+#sumofdigits{
+    color: coral;
+    font-size: 30px;
+    display: none;
+}

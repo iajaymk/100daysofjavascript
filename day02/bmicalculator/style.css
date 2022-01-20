@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    justify-content: center;
+    margin-top: 35vh;
+}
+
+h1{
+    font-size: 35px;
+    color: #272829;
+}
+
+button{
+    padding: 10px;
+    color: white;
+    background: blueviolet;
+    border-radius: 10%;
+}
+
+#result{
+    font-size: 30px;
+    color: coral;
+}

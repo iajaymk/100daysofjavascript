@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    justify-content: center;
+    margin-top: 35vh;
+
+}
+
+h1{
+    color: #227277;
+    font-size: 39px;
+}
+
+button{
+    padding:  10px;
+}
+
