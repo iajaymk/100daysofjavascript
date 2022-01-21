@@ -1,0 +1,26 @@
+body{
+    margin-left: 10%;
+    margin-left: 10%;
+    width: 80%;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    color: #272727;
+}
+label{
+    font-size: 32px;
+}
+button{
+    background: blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#result{
+    font-size: 38px;
+    color: red;
+}
